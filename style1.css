@@ -1,0 +1,15 @@
+html{
+    margin:0;
+    padding-right:0
+}
+
+
+
+
+
+body {
+    background-image: url(image/recycle2.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 100%
+}
